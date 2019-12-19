@@ -1,9 +1,9 @@
-<h1>Stock Market Analysis<h1>
+<h1>Stock Market Analysis
 
 
-Created a script that looped through one year of stock data for each run and returned the total volume each stock had over that year.
+*Created a script that looped through one year of stock data for each run and returned the total volume each stock had over that year.
 
-The script also displays the ticker symbol to coincide with the total stock volume.
+The script also displays the ticker symbol to coincide with the total stock volume.*
 
 ![screenshot](https://github.com/Sbagni/VBA-Macro/blob/master/screenshot2.png)
 
