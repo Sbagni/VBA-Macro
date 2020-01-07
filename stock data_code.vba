@@ -1,6 +1,6 @@
 Sub stock_data():
 
-Dim w As Worksheet
+Dim ws As Worksheet
 For Each ws In Worksheets
 Dim Ticker As String
  Dim Total_volume As Double
