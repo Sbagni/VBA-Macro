@@ -12,7 +12,7 @@ Dim Ticker As String
   If ws.Cells(i + 1, 1).Value <> ws.Cells(i, 1).Value Then
                Ticker = ws.Cells(i, 1).Value
                          Total_volume = Total_volume + ws.Cells(i, 7).Value
-                         ws.Cells(1, 8).Value = "Ticker"
+                         ws.Cells(1, 9).Value = "Ticker"
                          ws.Cells(1, 10).Value = "Total volume"
                          ws.Range("I" & Summary_Table_Row).Value = Ticker
                             ws.Range("j" & Summary_Table_Row).Value = Total_volume
