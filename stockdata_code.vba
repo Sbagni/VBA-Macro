@@ -1,4 +1,4 @@
-Sub stock_data():
+Sub stock_data();
 
 Dim ws As Worksheet
 For Each ws In Worksheets
