@@ -1,5 +1,6 @@
 **Stock Market Analysis**
 
+![image](https://github.com/Sbagni/VBA-Macro/blob/master/Images/stockmarket.jpg)
 
 We created a script that looped through one year of stock data for each run and returned the total volume each stock had over that year.
 * [Test Data](Resources/alphabtical_testing.xlsx) - We used this while developing our scripts.
